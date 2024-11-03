@@ -19,7 +19,7 @@ if (switchThemeBtn) {
         currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
         setTheme(currentTheme);
     });
-}
+}   
 
 //AOS Initiliaze
 AOS.init();
